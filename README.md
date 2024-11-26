@@ -41,17 +41,13 @@ I am majoring in Statistics and Data science at Dongguk University <br/>
 
 ## 🌱 Experiences
 
-<a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ ing]`
-
 <a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회, 15th member of a Data Analysis Association `[2024.06 ~ ing]`
 
 <br>
 
 ## 🏆 Award
 <details>
-<summary>🥉 2024 SW교육원 & 동국대학교 멋쟁이사자처럼 주최 해커톤 3등 </summary> 
-  
-   `[2024.06]` [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)
+<summary> </summary> 
 </details>
 
 <br>
