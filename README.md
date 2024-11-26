@@ -4,12 +4,12 @@
 ## 👋 Hi, I'm Woncheol Shin!
 
 <div>
-<a href="https://www.instagram.com/w0m._.7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/w0n._.7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: swc0802@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 <p>
-I am majoring in Statistics and Computer Science at Dongguk University, focusing on becoming a Back-end Developer. <br/>
+I am majoring in Statistics and Data science at Dongguk University <br/>
 </p>
 
 <br>
@@ -33,9 +33,9 @@ I am majoring in Statistics and Computer Science at Dongguk University, focusing
 
 |                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 동국대학교에서의 추억을 위한, **콩닥콩닥** | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
-|  스타와 함께하는 갓생의 시작, **STAR.T**  |   Python    | 2024.07 ~ 2024.08 |    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    | [Github](https://github.com/onlynyang/2024-Hackathon-4-STAR.T-Bakcend) [Website](https://api.likelion-start.site/)(서버종료) |
-|      _In Planning_      |   Python    | -|    <img src="https://img.shields.io/badge/-Individual-pink"/>    |   🚧   |
+|  |  |  |  |                                       [Github]()                                         |
+|    |       |  |        | [Github]() |
+|           |       | |       |      |
 
 <br>
 
