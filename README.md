@@ -9,7 +9,7 @@
 </div>
 
 <p>
-I am majoring in Statistics and Data science at Dongguk University <br/>
+I am majoring in Statistics and Data science at Dongguk University. <br/>
 </p>
 
 <br>
@@ -33,9 +33,9 @@ I am majoring in Statistics and Data science at Dongguk University <br/>
 
 |                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  |  |  |  |                                       [Github]()                                         |
-|    |       |  |        | [Github]() |
-|           |       | |       |      |
+|  |  |  |  | [Github](https://github.com/won172/v.a.f) |
+|  |  |  |  | [Github]() |
+|  |  |  |  |            |
 
 <br>
 
