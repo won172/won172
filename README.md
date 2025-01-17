@@ -33,7 +33,7 @@ I am majoring in Statistics and Data Science Software at Dongguk University. <br
 
 |                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  |  |  |  | [Github](https://github.com/won172/v.a.f) |
+| 서울시 카페 생존율 예측 | Python | 2024.09 ~ 2024.11 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [Github](https://github.com/won172/BAF-24-2-society) |
 |  |  |  |  | [Github]() |
 |  |  |  |  |            |
 
