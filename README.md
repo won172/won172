@@ -6,6 +6,7 @@
 <div>
 <a href="https://www.instagram.com/w0n._.7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: swc0802@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: swc3466@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-green?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
 
 <p>
