@@ -40,6 +40,14 @@ I am majoring in Statistics and Data Science Software at Dongguk University. <br
 
 <br>
 
+## 🎓 Study
+
+| Title | Stack | Duration | Organization | More |
+| :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 머신러닝 스터디 | Python | 2024.06 ~ 2024.08 | <img src="https://img.shields.io/badge/-개인-green"/> | [GitHub](https://github.com/won172/v.a.f) |
+| 딥러닝 스터디 | Python | 2024.12 ~ 2025.02 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [GitHub](https://github.com/won172/deep_learning_study) |
+
+
 ## 🌱 Experiences
 
 <a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회, 15th member of a Data Analysis Association `[2024.06 ~ ing]`
