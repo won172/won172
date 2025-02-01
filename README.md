@@ -35,8 +35,6 @@ I am majoring in Statistics and Data Science Software at Dongguk University. <br
 |                        Title                        |   Stack    |     Duration      |                            Organization                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 서울시 카페 생존율 예측 | Python | 2024.09 ~ 2024.11 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [Github](https://github.com/won172/BAF-24-2-society) |
-|  |  |  |  | [Github]() |
-|  |  |  |  |            |
 
 <br>
 
@@ -47,6 +45,7 @@ I am majoring in Statistics and Data Science Software at Dongguk University. <br
 | 머신러닝 스터디 | Python | 2024.06 ~ 2024.08 | <img src="https://img.shields.io/badge/-개인-green"/> | [GitHub](https://github.com/won172/v.a.f) |
 | 딥러닝 스터디 | Python | 2024.12 ~ 2025.02 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [GitHub](https://github.com/won172/deep_learning_study) |
 
+<br>
 
 ## 🌱 Experiences
 
