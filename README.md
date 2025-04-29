@@ -10,7 +10,7 @@
 </div>
 
 <p>
-I am majoring in Statistics and Data Science Software at Dongguk University. <br/>
+I am majoring in Statistics and Convergence Software at Dongguk University. <br/>
 </p>
 
 <br>
