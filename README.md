@@ -36,6 +36,7 @@ I am majoring in Statistics and Convergence Software at Dongguk University. <br/
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 서울시 카페 생존율 예측 | Python | 2024.09 ~ 2024.11 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [Github](https://github.com/won172/BAF-24-2-society) |
 | DB보험금융공모전 | Python | 2024.12 ~ 2025.02 | <img src="https://img.shields.io/badge/-개인-green"/> | [Github](https://github.com/won172/DB) |
+| 강화학습 기반 KOSPI 매매 알고리즘 | Python | 2025.03 ~ 2025.05 | <img src="https://img.shields.io/badge/-BAF-blue"/> | [Github](https://github.com/won172/BAF-25-1-finance_1) |
 | 동국대 길찾기 & 학식 안내 챗봇 | Python | 2025.05 | <img src="https://img.shields.io/badge/-개인-green"/> | [Github](https://github.com/won172/DGU_chatbot_v1) |
 <br>
 
