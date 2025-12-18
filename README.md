@@ -15,7 +15,7 @@ I am majoring in Statistics and Convergence Software at Dongguk University.
 | 강화학습 기반 KOSPI 매매 알고리즘 | Python | 2025.03 ~ 2025.05 | [![](https://img.shields.io/badge/-BAF-blue)](https://github.com/DGU-BAF) | [Github](https://github.com/won172/BAF-25-1-finance_1) |
 | 동국대 길찾기 & 학식 안내 챗봇 | Python | 2025.05 | [![](https://img.shields.io/badge/-동국대-green)](https://github.com/won172/DGU_chatbot_v1) | [Github](https://github.com/won172/DGU_chatbot_v1) |
 | 2025 관광데이터 분석 공모전 | Python | 2025.06 ~ 2025.07 | [![](https://img.shields.io/badge/-Contest-orange)](https://github.com/won172/travel_contest) | [Github](https://github.com/won172/travel_contest) |
-| 2025-2 OSS 프로젝트 (동똑이) | Python, RAG, LLM | 2025.09 ~ 2025.12 | [![](https://img.shields.io/badge/-동국대-green)](https://github.com/CSID-DGU/2025-2-OSSProj-renux-03) | [Github](https://github.com/won172/2025-2-OSSProj-renux-03) |
+| 동국대학교 재학생 맞춤형 정보 제공 챗봇 시스템 '동똑이' | Python, RAG, LLM | 2025.09 ~ 2025.12 | [![](https://img.shields.io/badge/-동국대-green)](https://github.com/CSID-DGU/2025-2-OSSProj-renux-03) | [Github](https://github.com/won172/2025-2-OSSProj-renux-03) |
 
 ## 🎓 Study
 
