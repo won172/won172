@@ -37,7 +37,7 @@ I am majoring in Statistics and Convergence Software at Dongguk University.
 
 ## 🫧 Studying..
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=won172&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won172&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api?username=won172&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0)](https://github.com/won172)
