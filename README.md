@@ -16,6 +16,8 @@ I am majoring in Statistics and Convergence Software at Dongguk University.
 | 동국대 길찾기 & 학식 안내 챗봇 | Python | 2025.05 | [![](https://img.shields.io/badge/-동국대-green)](https://github.com/won172/DGU_chatbot_v1) | [Github](https://github.com/won172/DGU_chatbot_v1) |
 | 2025 관광데이터 분석 공모전 | Python | 2025.06 ~ 2025.07 | [![](https://img.shields.io/badge/-Contest-orange)](https://github.com/won172/travel_contest) | [Github](https://github.com/won172/travel_contest) |
 | 동국대학교 재학생 맞춤형 정보 제공 챗봇 시스템 '동똑이' | Python, RAG, LLM | 2025.09 ~ 2025.12 | [![](https://img.shields.io/badge/-동국대-green)](https://github.com/CSID-DGU/2025-2-OSSProj-renux-03) | [Github](https://github.com/won172/2025-2-OSSProj-renux-03) |
+| 목적형 예산 토큰 기반의 대학 예산 운영 시뮬레이션 서비스 | Next.js, TypeScript, Prisma | 2026.04 | [![](https://img.shields.io/badge/-Contest-orange)](https://github.com/won172/HANA2) | [Github](https://github.com/won172/HANA2) |
+| 차곡차곡 | Vue 3, Pinia, json-server | 2026.04 | [![](https://img.shields.io/badge/-KB-gold)](https://github.com/won172/kb_skeleton_project_chagokchagok) | [Github](https://github.com/won172/kb_skeleton_project_chagokchagok) |
 
 ## 🎓 Study
 
@@ -32,6 +34,8 @@ I am majoring in Statistics and Convergence Software at Dongguk University.
 [![](https://img.shields.io/badge/-BDA-lightblue)]() 빅데이터 분석 학회 BDA 10기 데이터 분석 모델링반 (ML1) 수료 `[2025.03 ~ 2025.08]`
 <br>
 [![](https://img.shields.io/badge/-BAF-blue)](https://github.com/DGU-BAF) 동국대학교 통계학과 빅데이터학회 임원진 `[2025.06 ~ ing]`
+<br>
+[![](https://img.shields.io/badge/-KB-gold)]() KB IT's your life 7기 `[2025.06 ~ ing]`
 
 ## 🏆 Award
 
