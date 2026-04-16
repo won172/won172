@@ -35,7 +35,7 @@ I am majoring in Statistics and Convergence Software at Dongguk University.
 <br>
 [![](https://img.shields.io/badge/-BAF-blue)](https://github.com/DGU-BAF) 동국대학교 통계학과 빅데이터학회 임원진 `[2025.06 ~ ing]`
 <br>
-[![](https://img.shields.io/badge/-KB-gold)]() KB IT's your life 7기 `[2025.06 ~ ing]`
+[![](https://img.shields.io/badge/-KB-gold)]() KB IT's your life 7기 `[2026.03 ~ ing]`
 
 ## 🏆 Award
 
