@@ -56,5 +56,6 @@ Currently developing and operating [**동똑이**](https://www.dongttok.com), an
 ## 📜 Certifications
 
 - **ADsP (데이터분석준전문가)** - 2025.09
+- **SQLD (SQL 개발자)** - 2026.03
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0)](https://github.com/won172)
